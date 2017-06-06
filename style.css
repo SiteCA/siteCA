@@ -1,0 +1,24 @@
+.menu{
+	height: 50px;
+	width: 100%;
+	background-color: #4c93ef;
+	padding: 0px;
+	text-align: center;
+}
+
+.menu img{
+	float: left;
+	height: 100%;
+	width: 100px;
+}
+
+
+body{
+	margin: 0px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+html{
+	font-family: 'Roboto', sans-serif;
+}
