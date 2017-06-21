@@ -767,6 +767,11 @@ color:#5b136d;
 
 
 /* footer section */
+.logoRodape{
+    background: transparent;
+    width: 100px;
+    height: 100px;
+}
 .footerwidget{
 	background:#f3f3f3;
 	padding:40px 0px;
@@ -774,17 +779,22 @@ color:#5b136d;
 .footerwidget .single_widget{
 	margin:10px 0px;
 }
-.footerwidget .single_widget h4{
+.footerwidget .single_widget{
 	color:#52C6E0;
 	font-size:14px;
 }
-.footerwidget .single_widget ul li a{
+.single_widget p{
     color: #000;
     font-size: .8125rem;
-    line-height: 1.575rem;
+    text-align: center;
+    vertical-align: bottom;
 }
-.footerwidget .single_widget ul li:hover a{
+.footerwidget .single_widget :hover a{
     color: #7f0cad;
+}
+.footerwidget .single_widget h6{
+    color:#000;
+    font-size:14px;
 }
 
 .single_widget li a strong{
