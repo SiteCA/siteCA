@@ -1,5 +1,2 @@
 # siteCA
-<<<<<<< HEAD
-# siteCA
-=======
->>>>>>> 70532d71e6983d1d365dec83165002084475bedc
+#Site Desenvolvido na disciplina Gerência de Projetos com a intenção de praticarmos como é o desenvolvimento de projetos reais.
