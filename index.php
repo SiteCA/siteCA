@@ -4,8 +4,7 @@
         <section id="home" class="home">
             <div class="home_overlay">
                 <div class="container">
-                    <div class="row">
-					
+                    <div class="row">					
 						<div class="col-sm-12 col-sm">
 							<div class="main_home">
 								<div class="mainhomecontent">
@@ -53,9 +52,60 @@
 							</div>
 						</div>
 					</div>
-						
+					<!-- comeco da seção de noticias-->
+					<div class="noticias col-md-7" style="margin-top: 25px;">
+            			<div class="noticia">
+            				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	            			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	            			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	            			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	            			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	            			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            			</div>
+            		</div>
+
+            		<div class="col-md-5" style="padding-right: 0px; margin-top: 25px;">
+            			<div class="todasNoticias">
+            				<div class="itemNoticia">
+            					Duis aute irure dolor in reprehenderit in voluptate velit esse
+            				</div>
+            				<hr class="divider" style="margin-left: 90px; margin-right: 90px;"></hr>
+            				<div>
+            					sdassdasdqweqweqwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+            				</div>
+            				<hr class="divider" style="margin-left: 90px; margin-right: 90px;"></hr>
+            				<div>
+            					sdassdasdqweqweqwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+            				</div>       
+            			</div>
+            		</div>
+					<!--
+		            <div class="row secNoticias">
+		            	<div class="col-sm-12 col-sm">
+		            		<div class="noticias col-sm-7">
+		            			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		            			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		            			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		            			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		            			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		            			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		            		</div>
+		            		<div class="todasNoticias col-sm-5">
+		            			<div class="itemTodasNoticias">
+		            				<a>asdasdasdaaaasdwqeweqwe</a>
+		            			</div>
+		            			<div class="itemTodasNoticias">
+		            				<a>asdasdasdaaaasdwqeweqwe</a>
+		            			</div>
+		            			<div class="itemTodasNoticias">
+		            				<a>asdasdasdaaaasdwqeweqwe</a>
+		            			</div>
+		            		</div>
+		            	</div>
+		            </div>
+		            -->
                 </div>
-            </div>
+            </div>            
         </section>
         <!-- fim da seção de anuncio -->
 
