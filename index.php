@@ -1,4 +1,4 @@
-<?php include 'paginas/header.php'; ?>
+<?php include 'header.php'; ?>
 
          <!-- comeco da seção de anuncio -->
         <section id="home" class="home">
@@ -38,11 +38,11 @@
 										  </div>
 
 										  <!-- Left and right controls -->
-										  <a class="left carousel-control" href="#destaque" data-slide="prev">
+										  <a class="left carousel-control" href="#" data-target="#destaque" data-slide="prev">
 										    <span class="glyphicon glyphicon-chevron-left"></span>
 										    <span class="sr-only">Anterior</span>
 										  </a>
-										  <a class="right carousel-control" href="#destaque" data-slide="next">
+										  <a class="right carousel-control" href="#" data-target="#destaque" data-slide="next">
 										    <span class="glyphicon glyphicon-chevron-right"></span>
 										    <span class="sr-only">Proximo</span>
 										  </a>
@@ -110,4 +110,4 @@
         <!-- fim da seção de anuncio -->
 
 
-<?php include 'paginas/footer.php'; ?>
+<?php include 'footer.php'; ?>
