@@ -72,7 +72,7 @@
                                                 <li><a href="#">Representantes</a></li>
 											  </ul>
 											</li>
-                                            <li><a href="#">Formulários</a></li>
+                                            <li><a href="formularios.php">Formulários</a></li>
                                             <li><a href="#">Links</a></li>
                                             <li><a href="#">Calendário</a></li>
                                             <li><a href="contato.php">Contato</a></li>
