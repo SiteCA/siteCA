@@ -1,20 +1,52 @@
 <?php include 'header.php'; ?>
-	<div>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	<section id="home" class="home">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 col-sm" style="color: black;">
+				<!--FAZ SUAS PARADAS DAQUI PRA BAIXO :)-->
+				<div class="container"> <div class="row">
+         <div class="col-md-6 col-md-offset-3">
+            
+            
+            <div class="well text-center">
+               <p><small>Os campos marcados com um asterisco (*) são obrigatórios</small></p>
+               <form action="" method="post">
+                  <input type='hidden'/>
+                  <div class="form-group">
+                     <input class="form-control" id="id_nome" maxlength="100" name="nome" placeholder="Seu nome *" type="text" />
+                        
+                  </div>
+                  
+                  <div class="form-group">
+                     <input class="form-control" id="id_email" name="email" placeholder="Seu e-mail" type="email" />
+                     
+                  </div>
+                  
+                  <div class="form-group">
+                     <input class="form-control" id="id_assunto" maxlength="100" name="assunto" placeholder="Assunto *" type="text" />
+                     
+                  </div>
+                  
+                  <div class="form-group">
+                     <textarea class="form-control" cols="40" id="id_mensagem" name="mensagem" placeholder="Mensagem *" rows="10">
+</textarea>
+                     
+                  </div>
+                  
+                  <button type="submit" class="btn btn-default">Enviar</button>
+               </form>
+            
+            </div>
+         </div>
+         
+         
+      </div>
+</div>
+			</div>
+		</div>
+		
 	</div>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		<p>
+	</section>
 
 
 <?php include 'footer.php'; ?>
