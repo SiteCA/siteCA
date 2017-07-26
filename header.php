@@ -54,13 +54,13 @@
                                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="margin-top: 25px">
 
                                         <ul class="nav navbar-nav navbar-right">
-                                            <li><a href="#home">Home</a></li>
+                                            <li><a href="index.php">Home</a></li>
 											<li class="dropdown">
 											  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Institucional <span class="caret"></span></a>
 											  <ul class="dropdown-menu">
-												<li><a href="#">História</a></li>
-												<li><a href="#">Gestões</a></li>
-												<li><a href="#">Atas</a></li>
+												<li><a href="historia.php">História</a></li>
+												<li><a href="gestao.php">Gestões</a></li>
+												<li><a href="atas.php">Atas</a></li>
 											  </ul>
 											</li>
 											<li class="dropdown">
@@ -73,8 +73,8 @@
 											  </ul>
 											</li>
                                             <li><a href="formularios.php">Formulários</a></li>
-                                            <li><a href="#">Links</a></li>
-                                            <li><a href="#">Calendário</a></li>
+                                            <li><a href="linksuteis.php">Links</a></li>
+                                            <li><a href="calendario.php">Calendário</a></li>
                                             <li><a href="contato.php">Contato</a></li>
                                         </ul>
                                     </div>
